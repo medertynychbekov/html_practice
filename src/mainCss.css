@@ -1,0 +1,22 @@
+.tag{
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+/*.super_body{*/
+/*    background-image: url("https://static.toiimg.com/photo/77630680.cms?imgsize=780095");*/
+/*}*/
+
+.form_login{
+    width: 600px;
+    height: 600px;
+    margin-left: 450px;
+    margin-top: 150px;
+}
+
+.table_css{
+    width: 800px;
+    height: 600px;
+    margin-left: 350px;
+    /*margin-top: 100px;*/
+}
